@@ -676,6 +676,34 @@ fun LiveTithiClockScreen(
                 }
             }
         }
+        // Developer credit
+        item {
+            DeveloperCredit()
+        }
+    }
+}
+
+/** Small developer credit line shown at the bottom of the main screens. */
+@Composable
+internal fun DeveloperCredit(modifier: Modifier = Modifier) {
+    Column(
+        modifier = modifier
+            .fillMaxWidth()
+            .padding(top = 4.dp, bottom = 12.dp),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        Text(
+            text = "Developer: Muraly C B",
+            style = MaterialTheme.typography.bodySmall,
+            color = MutedStarlight,
+            textAlign = TextAlign.Center
+        )
+        Text(
+            text = "Phone: 7012451340",
+            style = MaterialTheme.typography.bodySmall,
+            color = MutedStarlight,
+            textAlign = TextAlign.Center
+        )
     }
 }
 

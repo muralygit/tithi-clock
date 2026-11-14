@@ -329,5 +329,8 @@ fun CalendarAndWidgetScreen(
                 }
             }
         }
+        item {
+            DeveloperCredit()
+        }
     }
 }
