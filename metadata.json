@@ -1,0 +1,6 @@
+{
+  "name": "Tithi Clock",
+  "description": "Live Vedic Tithi (Lunar Day) and Moon Phase clock displaying Pradhama, Dvitheeya, Thritheeya, Chathurthi through Pournami and Amavasya alongside real-time astronomical moon phases, Panchang timings, and a Home Screen Widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

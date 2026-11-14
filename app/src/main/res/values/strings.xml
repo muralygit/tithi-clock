@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tithi Clock</string>
+    <string name="widget_title">Tithi &amp; Moon Phase Clock</string>
+    <string name="widget_description">Shows live time, current Vedic Tithi (Pradhama, Dvitheeya, Thritheeya…), Paksha, and corresponding Moon Phase image on your Home Screen.</string>
+    <string name="tab_live_clock">Live Clock</string>
+    <string name="tab_tithi_atlas">30 Tithis</string>
+    <string name="tab_calendar_widget">30-Day &amp; Widget</string>
+    <string name="live_now">LIVE NOW</string>
+    <string name="time_travel_mode">PREVIEW MODE</string>
+    <string name="reset_to_live">Return to Live Time</string>
+    <string name="pin_widget_cta">Add Tithi Clock to Home Screen</string>
+    <string name="desk_clock_mode">Full-Screen Clock</string>
+    <string name="shukla_paksha">Shukla Paksha (Waxing)</string>
+    <string name="krishna_paksha">Krishna Paksha (Waning)</string>
+</resources>
